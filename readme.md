@@ -20,7 +20,7 @@ The project includes model definitions, training scripts, a Jupyter notebook for
 │   └── lrcn_weights.h5
 ├── requirements.txt           # Required Python packages
 └── README.md                  # Project documentation
-```              # Project documentation
+```
 
 ## Models Overview
 
