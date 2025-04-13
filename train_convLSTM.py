@@ -43,11 +43,6 @@ convlstm_model = create_convlstm_model(SEQUENCE_LENGTH = SEQUENCE_LENGTH,IMAGE_H
 # Display the success message. 
 print("Model Created Successfully!")
 
-
-# Plot the structure of the contructed model.
-plot_model(convlstm_model, to_file = 'convlstm_model_structure_plot.png', show_shapes = True, show_layer_names = True)
-
-
 # Create an Instance of Early Stopping Callback
 early_stopping_callback = EarlyStopping(monitor = 'val_loss', patience = 10, mode = 'min', restore_best_weights = True)
 
