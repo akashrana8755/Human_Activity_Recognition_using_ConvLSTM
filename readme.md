@@ -9,6 +9,7 @@ The project includes model definitions, training scripts, a Jupyter notebook for
 
 ## Project Structure
 
+```
 ├── index.ipynb                # Main Jupyter notebook (full pipeline: data loading, training, evaluation)
 ├── model_convLSTM.py          # ConvLSTM model definition
 ├── model_LRCN.py              # LRCN model definition
@@ -19,6 +20,7 @@ The project includes model definitions, training scripts, a Jupyter notebook for
 │   └── lrcn_weights.h5
 ├── requirements.txt           # Required Python packages
 └── README.md                  # Project documentation
+```              # Project documentation
 
 ## Models Overview
 
