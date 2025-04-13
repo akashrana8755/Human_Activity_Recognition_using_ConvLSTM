@@ -1,3 +1,4 @@
 # Ignore the data folder
 /UCF50/
 /UCF101/
+/.venv/
