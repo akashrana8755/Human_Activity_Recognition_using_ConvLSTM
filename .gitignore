@@ -1,5 +1,5 @@
 # Ignore the data folder
 /UCF50/
 /UCF101/
+/PAPERWORK/
 /.venv/
-/Paperwork/
