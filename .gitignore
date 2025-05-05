@@ -1,0 +1,7 @@
+# Ignore the data folder
+/UCF50/
+/UCF101/
+/PAPERWORK/
+/.venv/
+/HAR_ConvLSTM_LRCN_Presentation.mp4
+/CODE/
